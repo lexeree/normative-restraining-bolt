@@ -10,4 +10,6 @@ To generate the trajectory for the "early" normative system run: `python3 test_a
 
 To generate the trajectory for the "late" normative system run: `python3 test_maintenance.py`
 
+The automata for the case studies were generated [here](http://ltlf2dfa.diag.uniroma1.it/).
+
 
